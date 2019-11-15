@@ -34,7 +34,7 @@ Or installation in anaconda environment
 ```
 ### Installing
 
-*Find our entire architecture of the project in the 
+*Find our entire architecture of the project in the research paper uploaded
 1) In the code folder find Creating_Schema_1.ipynb, run this python code to create our 1st schema.
 2) Then run Creating_Schema_1.ipynb to create the 2nd Schema.
 3) Then run Schema_3.ipynb to create our 3rd and final schema.
